@@ -7,9 +7,8 @@
  </h5>
  
 <p align="center" >
-<a align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsoma)](https://github.com/anuraghazra/github-readme-stats)
- </a>
+ <a href="https://github-readme-stats.vercel.app/api?username=xsoma"></a>
+
 </p>
 
  
