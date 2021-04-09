@@ -7,7 +7,7 @@
  </h5>
  
 <p align="center" >
- <a href="https://github-readme-stats.vercel.app/api?username=xsoma"></a>
+ <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"></a>
 
 </p>
 
