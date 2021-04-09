@@ -1,8 +1,8 @@
-<div align=center>
+<div>
 <h1> xsoma <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 </div>
 
- <h3 align=center>
+ <h3>
    a beginner, 15 years old self thought c++ learner/developer
  </h5>
  
