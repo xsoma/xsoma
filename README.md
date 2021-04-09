@@ -6,10 +6,7 @@
    a beginner, 15 years old self thought c++ learner/developer
  </h5>
  
- <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsoma)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
  
