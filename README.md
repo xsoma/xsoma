@@ -3,7 +3,7 @@
 </div>
 
  <h3>
-   a beginner, 15 years old self thought c++ learner/developer
+   15 year old, beginner, self thought c++ learner/developer
  </h5>
  
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
