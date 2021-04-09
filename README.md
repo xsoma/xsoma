@@ -6,9 +6,12 @@
    a beginner, 15 years old self thought c++ learner/developer
  </h5>
  
+<p align="center" >
+<a align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsoma)](https://github.com/anuraghazra/github-readme-stats)
-
+ </a>
 </p>
+
  
  
 
