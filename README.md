@@ -7,7 +7,7 @@
  </h5>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bornmay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xsoma" />
 </a>
 
  
