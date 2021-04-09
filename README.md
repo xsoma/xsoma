@@ -3,7 +3,7 @@
 </div>
 
  <h5 align="center">
-   <h2>a beginner, 15 years old self thought c++ learner/developer</h2>
+   a beginner, 15 years old self thought c++ learner/developer
   </h5>
 
 
