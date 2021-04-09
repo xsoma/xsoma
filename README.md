@@ -1,5 +1,5 @@
 <div align=center>
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> soma, aka the cheat sharer</h1>
+<h1>Soma<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 </div>
 
  <h3 align=center>
