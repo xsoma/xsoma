@@ -3,7 +3,7 @@
 </div>
 
  <h3>
-   a 15 years old boy, currently learning c++
+   a 15 year old boy, currently learning c++
  </h5>
  
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
