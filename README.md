@@ -4,6 +4,7 @@
 
  <h3>
    a 15 year old boy, currently learning c++
+   ps: mao is a 13 year old fucking clown, and still scamming people
  </h5>
  
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
