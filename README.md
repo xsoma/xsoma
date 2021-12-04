@@ -6,14 +6,8 @@
 psauxx@github
 ----------------
 
-     NAME  :  soma
-       WM  :  Openbox
-    Shell  :  Bash
- Terminal  :  Alacritty
-      CPU  :  AMD FX(tm)-6300
-    Alias  :  Nano
-     Orgs  :  NeonNetworks
- Language  :  c++
-  Discord  :  902015309848903682
+     Name  :  soma
+ Language  :  cpp
+  Discord  :  soma#5021
   
 ```
