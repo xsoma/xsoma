@@ -3,11 +3,12 @@
 ```py
 
 
-psauxx@github
+xsoma@github
 ----------------
 
      Name  :  soma
  Language  :  cpp
   Discord  :  soma#5021
+   Credit  :  psauxx
   
 ```
