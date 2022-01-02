@@ -1,1 +1,2 @@
-<h1>xsoma<h1><h1>the biggest cheat sharer on github 👩🏻‍🦯<h1>
+<h1 align="center"><code>xsoma</code></h1>
+<p align="center">the biggest cheat sharer on github</p>
